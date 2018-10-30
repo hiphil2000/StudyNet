@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyNetClient", "StudyNetClient\StudyNetClient.csproj", "{906C03F6-753D-4798-A5F0-9E607D0FEFF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyNetCore", "StudyNetCore\StudyNetCore.csproj", "{12B7BD18-44A6-4DFA-B718-30A9440A3304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{906C03F6-753D-4798-A5F0-9E607D0FEFF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906C03F6-753D-4798-A5F0-9E607D0FEFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906C03F6-753D-4798-A5F0-9E607D0FEFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906C03F6-753D-4798-A5F0-9E607D0FEFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B7BD18-44A6-4DFA-B718-30A9440A3304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B7BD18-44A6-4DFA-B718-30A9440A3304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B7BD18-44A6-4DFA-B718-30A9440A3304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B7BD18-44A6-4DFA-B718-30A9440A3304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AA727BD-EBAF-4214-8564-527E41532AC0}
+	EndGlobalSection
+EndGlobal
